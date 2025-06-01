@@ -1,0 +1,5 @@
+model1/*
+!model1/no_bg_cropped_resized/
+model2/*
+!model2/split_with_augmentation/
+script/
